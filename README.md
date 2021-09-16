@@ -1,4 +1,4 @@
-# GroupMusicBot
+# Group Music Bot
 
 ## Commands
 
