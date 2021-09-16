@@ -18,6 +18,4 @@
 <p align="center">
   <img src="https://telegra.ph/file/335b9e7ee81147fce6f56.jpg">
 </p>
-<p align="center">
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ImTheekshana126/GroupMusicBot)
-</p>
+<"center"> [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ImTheekshana126/GroupMusicBot)
