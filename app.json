@@ -1,5 +1,5 @@
 {
-  "name": "Music Bot",
+  "name": "Group Music Bot",
   "logo": "https://telegra.ph/file/29cc13768f47a66d73e9c.jpg",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
