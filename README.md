@@ -19,7 +19,7 @@
 ###  Self-hosting (For Devs) 
 ```sh
 # Install Git First (apt-get install git)
-$ git clone https://github.com/ImTheekshana/GroupMusicBot
+$ git clone https://github.com/ImTheekshana126/GroupMusicBot
 $ cd GroupMusicBot
 # Upgrade sources
 # Install All Requirements 
