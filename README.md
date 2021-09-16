@@ -14,9 +14,7 @@
 
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ImTheekshana126/GroupMusicBot)
 
-Get pyrogram (p)  `SESSION` from here:
-
-[![Run on Repl.it](https://repl.it/badge/github/ChankitSaini/GenerateStringSession)](https://replit.com/@ChankitSaini/GenerateStringSession)
+Get pyrogram `SESSION` from here: [![Run on Repl.it](https://repl.it/badge/github/ChankitSaini/GenerateStringSession)](https://replit.com/@ChankitSaini/GenerateStringSession)
 
 
 <h2> Features 🔥 </h2>
