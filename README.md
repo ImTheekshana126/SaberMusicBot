@@ -10,6 +10,11 @@
 | /skip   | skip the current audio stream                        |
 | /stop   | clear the queue and remove the userbot from the call |
 
+### Heroku
+
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ImTheekshana126/GroupMusicBot)
+
+
 <h2> Features 🔥 </h2>
 
 - Thumbnail Support
@@ -25,7 +30,3 @@
 - Keyboard selection support for youtube play
 
 
-### Heroku
-
-
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ImTheekshana126/GroupMusicBot)
